@@ -1,10 +1,6 @@
 # Exercise 2 - Faulty Calculator
-# 45 * 3 = 555, 56+9 = 77, 56/6 = 4
-# Design a calculator which will correctly solve all the problems except
-# the following ones:
-# 45 * 3 = 555, 56+9 = 77, 56/6 = 4
-# Your program should take operator  and the two numbers as input from the user
-# and then return the result
+# This program should take operator  and the two numbers as input from the user and then return the result
+# There is some condition in which if user enter some value then it will print wrong answer
 
 def faulty_calculator():
     while(True):
