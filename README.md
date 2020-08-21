@@ -9,3 +9,5 @@ dis_book() : To display the available books
 lend_book(): To lend a book to a user
 add_book(): To add a book in the library
 ret_book(): To return the book in the library.
+
+4)newsTeller :- The task is to read the news using python.i create a program that will give you daily top 10 latest news.
