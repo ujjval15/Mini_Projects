@@ -11,3 +11,6 @@ add_book(): To add a book in the library
 ret_book(): To return the book in the library.
 
 4)newsTeller :- The task is to read the news using python.i create a program that will give you daily top 10 latest news.
+
+5)Store Billing:- This is a demonstration of the store billing script using the dictionary and list data type along with both loop types.
+which calculate total price  with item quantity and print the list along with item_name, quantity, price_for_each_quantity & total price.
