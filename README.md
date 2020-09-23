@@ -14,3 +14,5 @@ ret_book(): To return the book in the library.
 
 5)Store Billing:- This is a demonstration of the store billing script using the dictionary and list data type along with both loop types.
 which calculate total price  with item quantity and print the list along with item_name, quantity, price_for_each_quantity & total price.
+
+6)WaterDrinkReminder:- this task is to give reimder for drinking water after every 1 Hr.(for this first of all you have to instel plyer packege via (pip install plyer)).
